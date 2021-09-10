@@ -25,7 +25,7 @@
                             <button type="button" class="btn btn-primary"> Registrate</button>
                         </div>
                         <div class="col-md-7 register-right">
-                            <h2>Iniciar Sesion</h2>
+                            <h2>Iniciar Sesion Hola Test</h2>
                             <div class="register-form">
                                 <div class="form-group">
                                     <input type="text" class="form-control" placeholder="Usuario">

@@ -76,8 +76,11 @@ body{
     font-weight: 600;
     color: #fff;
     margin-top: 10px;
-    padding: 10px;
+    padding: 20px;
 }
 .register-right .btn-primary:hover{
+    background: #EE2051;
+}
+.register-right {
     background: #EE2051;
 }

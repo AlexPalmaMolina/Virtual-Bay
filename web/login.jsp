@@ -25,15 +25,7 @@
                             <button type="button" class="btn btn-primary"> Registrate</button>
                         </div>
                         <div class="col-md-7 register-right">
-                            <h2>Iniciar Sesion</h2>
-                            <div class="register-form">
-                                <div class="form-group">
-                                    <input type="text" class="form-control" placeholder="Usuario">
-                                </div>
-                                <div class="form-group">
-                                    <input type="password" class="form-control" placeholder="Contraseña">
-                                </div>
-                                <button type="button" class="btn btn-primary">Iniciar Sesion</button>
+                            
                             </div>
                         </div>
                     </div>
